@@ -51,7 +51,7 @@ class Bullet(pygame.sprite.Sprite):
                 self.explode.play()
                 self.kill()
 
-        if self.hitbox.top <= 0:
+        if self.hitbox.top <= 0 or self.hitbox.bottom >= pygame.display.get_surface().get_size()[1]:
             self.kill()
             
 
