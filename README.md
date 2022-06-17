@@ -17,4 +17,6 @@ Basic Space Invaders like Game developed in PyGame for <A href="https://www.udem
 Run `main.py` from the `src` folder. Ensure `src` is your current working directory as the imports are relative. 
 
 # References 
-* All the code is my own. Game assets were sourced from GeeksforGeeks <a href='https://drive.google.com/drive/folders/1LIhvAzDeeftnYVlQaVj3PMPkU-mLylmB'> google drive</a>. Their development and use of assets is documented in the following article: <a href='https://www.geeksforgeeks.org/building-space-invaders-using-pygame-python/'>Building Space Invaders Using PyGame – Python</a> 
+* <b>All the code is my own. </b> 
+* Game assets were sourced from GeeksforGeeks <a href='https://drive.google.com/drive/folders/1LIhvAzDeeftnYVlQaVj3PMPkU-mLylmB'> google drive</a>. 
+    * Their development and use of assets is documented in the following article: <a href='https://www.geeksforgeeks.org/building-space-invaders-using-pygame-python/'>Building Space Invaders Using PyGame – Python</a> 
